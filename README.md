@@ -28,32 +28,4 @@ A RAG (Retrieval-Augmented Generation) chatbot that answers questions based on y
 ```bash
 https://github.com/swapnauran/Knowledge-Based-Chatbot-with-Local-LLM.git
 
-Install Requirements (Choose one)
 
-For CUDA 11.8 (Recommended):
-
-bash
-Copy
-python -m pip install -r requirements_cuda.txt
-For CPU-Only (Not Recommended):
-
-bash
-Copy
-python -m pip install -r requirements.txt
-Install FlashAttention (Windows Only)
-
-bash
-Copy
-pip install flash-attn==2.5.8 --no-build-isolation
-Usage
-1. Prepare Documents
-Place your files in company_docs/ folder:
-
-Supported formats: PDF, DOCX, DOC
-
-Max recommended file size: 50MB each
-
-2. Train Model
-bash
-Copy
-python train_model.py
