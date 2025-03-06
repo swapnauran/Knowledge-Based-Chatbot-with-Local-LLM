@@ -28,3 +28,5 @@ A RAG (Retrieval-Augmented Generation) chatbot that answers questions based on y
 ```bash
 git clone https://github.com/YOUR_USERNAME/document-chatbot.git
 cd document-chatbot
+
+1. **Clone Repository**
