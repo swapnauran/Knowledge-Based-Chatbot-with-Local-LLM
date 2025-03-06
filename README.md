@@ -48,7 +48,7 @@ A **Retrieval-Augmented Generation (RAG)** chatbot that answers questions based 
 
 - Place files in `company_docs/` 
 - Supported formats: **PDF, DOCX, DOC**
-- Max recommended file size: **50GB each**
+- Max recommended file size: **500MB each**
 
 ### 2️⃣ Train Model
 
