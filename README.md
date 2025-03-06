@@ -10,7 +10,7 @@ A RAG (Retrieval-Augmented Generation) chatbot that answers questions based on y
 - 🔍 Semantic search with FAISS
 - 🧠 Mistral-7B LLM with 4-bit quantization
 - 🚀 GPU acceleration (NVIDIA required)
-- 🔒 Runs locally or deploy any where 
+- 🔒 Runs entirely locally
 
 ## Installation
 
@@ -23,9 +23,8 @@ A RAG (Retrieval-Augmented Generation) chatbot that answers questions based on y
 - 20GB+ free disk space
 
 ### Step-by-Step Setup
- **Create Virtual Environment**
-**Clone Repository**
+0. **Create-vertual-environment**
+1. **Clone Repository**
 ```bash
-https://github.com/swapnauran/Knowledge-Based-Chatbot-with-Local-LLM.git
-
-### Step-by-Step Setup
+git clone https://github.com/YOUR_USERNAME/document-chatbot.git
+cd document-chatbot
