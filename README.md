@@ -31,7 +31,3 @@ A RAG (Retrieval-Augmented Generation) chatbot that answers questions based on y
 ```bash
 https://github.com/swapnauran/Knowledge-Based-Chatbot-with-Local-LLM.git
 
-
-2.Install Requirements (Choose one)
-
-For CUDA 11.8 (Recommended):
