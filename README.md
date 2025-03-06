@@ -26,8 +26,12 @@ A RAG (Retrieval-Augmented Generation) chatbot that answers questions based on y
 - 20GB+ free disk space
 
 ### Step-by-Step Setup
-
+0. **Create Virtual Environment**
 1. **Clone Repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/document-chatbot.git
-cd document-chatbot
+https://github.com/swapnauran/Knowledge-Based-Chatbot-with-Local-LLM.git
+
+2. Install Requirements (Choose one)
+
+For CUDA 11.8 (Recommended):
+python -m pip install -r requirements_cuda.txt
