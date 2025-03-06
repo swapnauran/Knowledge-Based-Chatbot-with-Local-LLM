@@ -128,6 +128,7 @@ transformers==4.41.2
 ```bash
 # Verify CUDA installation
 python -c "import torch; print(torch.cuda.is_available())"
+# Or run test.py
 ```
 
 ### 🔑 Hugging Face Authentication
