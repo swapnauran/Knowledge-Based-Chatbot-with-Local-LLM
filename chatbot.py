@@ -20,7 +20,7 @@ class SmartChatbot:
                  embedding_model="sentence-transformers/all-MiniLM-L6-v2"):
         
         # Authenticate with Hugging Face (REPLACE WITH YOUR TOKEN)
-        login(token="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")
+        login(token="YOUR_HF_TOKEN_HERE")
         
         # Configure 4-bit quantization
         self.bnb_config = BitsAndBytesConfig(
