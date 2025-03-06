@@ -13,7 +13,7 @@ A RAG (Retrieval-Augmented Generation) chatbot that answers questions based on y
 - 🔍 Semantic search with FAISS
 - 🧠 Mistral-7B LLM with 4-bit quantization
 - 🚀 GPU acceleration (NVIDIA required)
-- 🔒 Runs entirely locally
+- 🔒 Runs locally or deploy any where 
 
 ## Installation
 
